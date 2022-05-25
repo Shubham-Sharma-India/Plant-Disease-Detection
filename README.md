@@ -8,5 +8,5 @@ Tools and Technologies used:-
 4. Python
 5. HTML and CSS
 
-<p>You can access the project online <a href="https://rexsimiloluwah.github.io/PLANT-DISEASE-CLASSIFIER-WEB-APP-TENSORFLOWJS/">HERE</a> </p>
+<p>You can access the project online <a href="">HERE</a> </p>
 
