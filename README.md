@@ -8,5 +8,5 @@ Tools and Technologies used:-
 4. Python
 5. HTML and CSS
 
-... <p>You can access the project online <a href="https://shubham-sharma-india.github.io/Plant-Disease-Detection/">HERE</a> </p>
+<p>You can access the project online HERE</p>
 
